@@ -5,7 +5,7 @@ import { BundleInformationComponent } from "./store/pages/bundle-information/bun
 
 export const routes: Routes = [
   { path: 'home', component: HomeComponent },
-  { path: 'bundles/:bundleId/products', component: BundleInformationComponent },
+  { path: 'store/bundles', component: BundleInformationComponent },
   { path: '', redirectTo: 'home', pathMatch: 'full' },
   { path: '**', component: PageNotFoundComponent }
 ];
