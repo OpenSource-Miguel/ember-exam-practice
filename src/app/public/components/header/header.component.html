@@ -1,0 +1,12 @@
+<mat-toolbar>
+  <span>{{ title }}</span>
+  <span class="mat-spacer"></span>
+  <ng-container *ngFor="let option of options(); trackBy: trackByTitle">
+    <a mat-button [routerLink]="option.path" routerLinkActive="active" #rla="routerLinkActive">
+      <mat-icon>
+        {{ option.icon }}
+      </mat-icon>
+      {{ option.title }}
+    </a>
+  </ng-container>
+</mat-toolbar>

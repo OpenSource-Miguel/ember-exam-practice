@@ -1,0 +1,17 @@
+mat-toolbar {
+  display: flex;
+  align-items: center;
+  background-color: red;
+}
+
+mat-icon {
+  margin-right: 8px;
+}
+
+.mat-spacer {
+  flex: 1 1 auto;
+}
+
+.active {
+  background-color: var(--mat-list-active-indicator-color);
+}
