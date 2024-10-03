@@ -1,0 +1,10 @@
+<mat-card>
+  <img mat-card-image [src]="bundle.photoUrl" alt="{{ bundle.title }}">
+  <mat-card-title>{{ bundle.title }}</mat-card-title>
+  <mat-card-subtitle>Rating: {{ bundle.rating }}</mat-card-subtitle>
+  <mat-card-content>
+    <p>{{ bundle.description }}</p>
+    <p>Price: ${{ bundle.price.toFixed(2) }}</p>
+    <p>You Save: ${{ calculateYouSave(bundle).toFixed(2) }}</p>
+  </mat-card-content>
+</mat-card>

@@ -1,0 +1,42 @@
+.hero-image img {
+  width: 100%;
+  height: auto;
+}
+
+.hero-text {
+  text-align: center;
+  margin: 20px;
+  padding: 0 10px;
+}
+
+.hero-text h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+.hero-text p {
+  font-size: 1.2em;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+  .hero-text h1 {
+    font-size: 2em;
+  }
+
+  .hero-text p {
+    font-size: 1em;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-text h1 {
+    font-size: 1.5em;
+  }
+
+  .hero-text p {
+    font-size: 0.9em;
+  }
+}

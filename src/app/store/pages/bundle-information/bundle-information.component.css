@@ -1,0 +1,32 @@
+.bundle-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 20px;
+  padding: 20px;
+}
+
+.bundle-cards app-bundle-item {
+  flex: 1 1 calc(33.33% - 40px);
+  max-width: calc(33.33% - 40px);
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1200px) {
+  .bundle-cards app-bundle-item {
+    flex: 1 1 calc(50% - 40px);
+    max-width: calc(50% - 40px);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .bundle-cards app-bundle-item {
+    flex: 1 1 calc(100% - 40px);
+    max-width: calc(100% - 40px);
+  }
+}
+
+.bundle-cards {
+  padding: 10px;
+  margin: 0 auto;
+}
