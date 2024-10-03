@@ -2,217 +2,323 @@
   "products": [
     {
       "id": 1,
-      "title": "Smart Mug 2",
-      "description": "Temperature-controlled smart mug to keep your drinks at the perfect temperature.",
-      "photoUrl": "https://example.com/images/smart_mug_2.jpg",
-      "price": 129.99,
+      "title": "Ember Mug 2",
+      "description": "Temperature control smart mug that keeps your coffee or tea hot.",
+      "photoUrl": "https://example.com/images/ember-mug-2.jpg",
+      "price": 99.95,
       "bundleId": 1,
       "rating": 4.8
     },
     {
       "id": 2,
-      "title": "Travel Mug",
-      "description": "Smart travel mug with a longer-lasting battery for coffee and tea lovers on the go.",
-      "photoUrl": "https://example.com/images/travel_mug.jpg",
-      "price": 179.99,
+      "title": "Ember Travel Mug",
+      "description": "Smart travel mug with temperature control for coffee lovers on the go.",
+      "photoUrl": "https://example.com/images/ember-travel-mug.jpg",
+      "price": 149.95,
       "bundleId": 2,
       "rating": 4.7
     },
     {
       "id": 3,
-      "title": "Thermal Cup",
-      "description": "Simple thermal cup for maintaining the perfect drink temperature without smart features.",
-      "photoUrl": "https://example.com/images/thermal_cup.jpg",
-      "price": 39.99,
+      "title": "Ember Cup",
+      "description": "Temperature control smart cup, perfect for espresso lovers.",
+      "photoUrl": "https://example.com/images/ember-cup.jpg",
+      "price": 79.95,
       "bundleId": 1,
-      "rating": 4.1
+      "rating": 4.6
     },
     {
       "id": 4,
-      "title": "Ember Cube",
-      "description": "Self-refrigerated smart shipping container for healthcare applications.",
-      "photoUrl": "https://example.com/images/ember_cube.jpg",
-      "price": 499.99,
+      "title": "Ember Thermos",
+      "description": "Advanced temperature control thermos for long hours of warmth.",
+      "photoUrl": "https://example.com/images/ember-thermos.jpg",
+      "price": 199.95,
       "bundleId": 3,
       "rating": 4.9
     },
     {
       "id": 5,
-      "title": "Coffee Maker Bundle",
-      "description": "Bundle includes the Ember smart mug and an advanced coffee maker.",
-      "photoUrl": "https://example.com/images/coffee_maker_bundle.jpg",
-      "price": 249.99,
+      "title": "Ember Mug 2 - Metallic Edition",
+      "description": "Limited edition smart mug with temperature control and metallic finish.",
+      "photoUrl": "https://example.com/images/ember-metallic-mug.jpg",
+      "price": 119.95,
       "bundleId": 2,
-      "rating": 4.6
+      "rating": 4.8
     },
     {
       "id": 6,
-      "title": "Smart Plate",
-      "description": "Temperature-controlled smart plate for keeping meals warm.",
-      "photoUrl": "https://example.com/images/smart_plate.jpg",
-      "price": 89.99,
-      "bundleId": 1,
-      "rating": 4.3
+      "title": "Ember Carafe",
+      "description": "Smart carafe with temperature control for serving multiple cups of coffee or tea.",
+      "photoUrl": "https://example.com/images/ember-carafe.jpg",
+      "price": 229.95,
+      "bundleId": 4,
+      "rating": 4.7
     },
     {
       "id": 7,
-      "title": "Wireless Charger",
-      "description": "Wireless charger compatible with all Ember smart devices.",
-      "photoUrl": "https://example.com/images/wireless_charger.jpg",
-      "price": 39.99,
+      "title": "Ember Kettle",
+      "description": "Temperature-controlled kettle for precision brewing of tea or coffee.",
+      "photoUrl": "https://example.com/images/ember-kettle.jpg",
+      "price": 149.95,
+      "bundleId": 5,
+      "rating": 4.6
+    },
+    {
+      "id": 8,
+      "title": "Ember Mini Mug",
+      "description": "A compact version of the Ember Mug, perfect for small servings.",
+      "photoUrl": "https://example.com/images/ember-mini-mug.jpg",
+      "price": 69.95,
       "bundleId": 4,
       "rating": 4.5
     },
     {
-      "id": 8,
-      "title": "Ember Thermo Bag",
-      "description": "Smart insulated bag to keep food at an optimal temperature during transport.",
-      "photoUrl": "https://example.com/images/thermo_bag.jpg",
-      "price": 99.99,
-      "bundleId": 4,
-      "rating": 4.4
+      "id": 9,
+      "title": "Ember Office Set",
+      "description": "Complete temperature control set for the office, including mug, thermos, and cup.",
+      "photoUrl": "https://example.com/images/ember-office-set.jpg",
+      "price": 349.95,
+      "bundleId": 6,
+      "rating": 4.9
     },
     {
-      "id": 9,
-      "title": "Smart Thermometer",
-      "description": "Bluetooth thermometer for real-time temperature monitoring.",
-      "photoUrl": "https://example.com/images/smart_thermometer.jpg",
-      "price": 49.99,
+      "id": 10,
+      "title": "Ember Smart Thermostat",
+      "description": "Smart thermostat to maintain precise temperature in your kitchen for brewing.",
+      "photoUrl": "https://example.com/images/ember-thermostat.jpg",
+      "price": 199.95,
+      "bundleId": 5,
+      "rating": 4.8
+    },
+    {
+      "id": 11,
+      "title": "Ember Coffee Grinder",
+      "description": "Smart coffee grinder with adjustable grind settings and temperature preservation.",
+      "photoUrl": "https://example.com/images/ember-coffee-grinder.jpg",
+      "price": 149.95,
+      "bundleId": 5,
+      "rating": 4.7
+    },
+    {
+      "id": 12,
+      "title": "Ember Portable Mug",
+      "description": "Portable version of the Ember Mug, perfect for commuters.",
+      "photoUrl": "https://example.com/images/ember-portable-mug.jpg",
+      "price": 99.95,
+      "bundleId": 2,
+      "rating": 4.5
+    },
+    {
+      "id": 13,
+      "title": "Ember Smart Bottle",
+      "description": "Smart bottle with temperature control for hydration on the go.",
+      "photoUrl": "https://example.com/images/ember-smart-bottle.jpg",
+      "price": 79.95,
+      "bundleId": 3,
+      "rating": 4.8
+    },
+    {
+      "id": 14,
+      "title": "Ember Kids Mug",
+      "description": "Smart mug designed specifically for kids, with temperature control and safety features.",
+      "photoUrl": "https://example.com/images/ember-kids-mug.jpg",
+      "price": 59.95,
+      "bundleId": 4,
+      "rating": 4.6
+    },
+    {
+      "id": 15,
+      "title": "Ember Wine Chiller",
+      "description": "Smart wine chiller with adjustable temperature control.",
+      "photoUrl": "https://example.com/images/ember-wine-chiller.jpg",
+      "price": 299.95,
+      "bundleId": 3,
+      "rating": 4.9
+    },
+    {
+      "id": 16,
+      "title": "Ember Smart Cup",
+      "description": "Smart cup for precision temperature control and monitoring.",
+      "photoUrl": "https://example.com/images/ember-smart-cup.jpg",
+      "price": 89.95,
+      "bundleId": 1,
+      "rating": 4.7
+    },
+    {
+      "id": 17,
+      "title": "Ember Office Mug",
+      "description": "Mug designed for the office, featuring extended battery life and temperature control.",
+      "photoUrl": "https://example.com/images/ember-office-mug.jpg",
+      "price": 109.95,
+      "bundleId": 6,
+      "rating": 4.8
+    },
+    {
+      "id": 18,
+      "title": "Ember Espresso Set",
+      "description": "Espresso-specific smart set with mugs and temperature-controlled base.",
+      "photoUrl": "https://example.com/images/ember-espresso-set.jpg",
+      "price": 199.95,
+      "bundleId": 5,
+      "rating": 4.9
+    },
+    {
+      "id": 19,
+      "title": "Ember Mini Kettle",
+      "description": "Compact kettle for smaller portions, with precision temperature control.",
+      "photoUrl": "https://example.com/images/ember-mini-kettle.jpg",
+      "price": 99.95,
+      "bundleId": 4,
+      "rating": 4.6
+    },
+    {
+      "id": 20,
+      "title": "Ember Coffee Maker",
+      "description": "Smart coffee maker with temperature control for brewing perfection.",
+      "photoUrl": "https://example.com/images/ember-coffee-maker.jpg",
+      "price": 249.95,
+      "bundleId": 5,
+      "rating": 4.7
+    },
+    {
+      "id": 21,
+      "title": "Ember Heated Plate",
+      "description": "Smart heated plate for keeping food warm at an optimal temperature.",
+      "photoUrl": "https://example.com/images/ember-heated-plate.jpg",
+      "price": 129.95,
+      "bundleId": 3,
+      "rating": 4.8
+    },
+    {
+      "id": 22,
+      "title": "Ember Smart Lunchbox",
+      "description": "Lunchbox with temperature control to keep your food warm throughout the day.",
+      "photoUrl": "https://example.com/images/ember-smart-lunchbox.jpg",
+      "price": 89.95,
+      "bundleId": 4,
+      "rating": 4.7
+    },
+    {
+      "id": 23,
+      "title": "Ember Kids Thermos",
+      "description": "Thermos designed for kids, with temperature control and spill-proof lid.",
+      "photoUrl": "https://example.com/images/ember-kids-thermos.jpg",
+      "price": 49.95,
+      "bundleId": 4,
+      "rating": 4.5
+    },
+    {
+      "id": 24,
+      "title": "Ember Travel Carafe",
+      "description": "Carafe designed for travel with long-lasting temperature control.",
+      "photoUrl": "https://example.com/images/ember-travel-carafe.jpg",
+      "price": 199.95,
+      "bundleId": 2,
+      "rating": 4.8
+    },
+    {
+      "id": 25,
+      "title": "Ember Portable Kettle",
+      "description": "Portable kettle for travel with smart temperature control.",
+      "photoUrl": "https://example.com/images/ember-portable-kettle.jpg",
+      "price": 149.95,
+      "bundleId": 3,
+      "rating": 4.9
+    },
+    {
+      "id": 26,
+      "title": "Ember Studio Set",
+      "description": "Complete temperature control set for artists and creatives, including mugs and kettles.",
+      "photoUrl": "https://example.com/images/ember-studio-set.jpg",
+      "price": 379.95,
+      "bundleId": 6,
+      "rating": 5.0
+    },
+    {
+      "id": 27,
+      "title": "Ember Ultra Mug",
+      "description": "Extended battery life mug with precision temperature control for all-day use.",
+      "photoUrl": "https://example.com/images/ember-ultra-mug.jpg",
+      "price": 129.95,
+      "bundleId": 1,
+      "rating": 4.8
+    },
+    {
+      "id": 28,
+      "title": "Ember Pet Bowl",
+      "description": "Smart pet bowl with temperature control for your pet's food and water.",
+      "photoUrl": "https://example.com/images/ember-pet-bowl.jpg",
+      "price": 59.95,
+      "bundleId": 4,
+      "rating": 4.6
+    },
+    {
+      "id": 29,
+      "title": "Ember Fitness Bottle",
+      "description": "Fitness bottle with smart temperature control and ergonomic design.",
+      "photoUrl": "https://example.com/images/ember-fitness-bottle.jpg",
+      "price": 69.95,
       "bundleId": 3,
       "rating": 4.7
     },
     {
-      "id": 10,
-      "title": "Bluetooth Kettle",
-      "description": "Smart kettle with Bluetooth control to set precise water temperatures.",
-      "photoUrl": "https://example.com/images/bluetooth_kettle.jpg",
-      "price": 129.99,
-      "bundleId": 2,
-      "rating": 4.6
+      "id": 30,
+      "title": "Ember Personal Mug",
+      "description": "Personalized smart mug with temperature control and custom design options.",
+      "photoUrl": "https://example.com/images/ember-personal-mug.jpg",
+      "price": 109.95,
+      "bundleId": 1,
+      "rating": 4.9
     }
   ],
   "bundles": [
     {
       "id": 1,
-      "title": "Ember Drinkware Bundle",
-      "description": "Includes Smart Mug 2, Smart Plate, and a thermal cup.",
-      "photoUrl": "https://example.com/images/drinkware_bundle.jpg",
-      "price": 199.99,
+      "title": "Ember Mug & Cup Bundle",
+      "description": "A bundle containing the Ember Mug 2 and Ember Cup for perfect temperature control.",
+      "photoUrl": "https://example.com/images/ember-mug-cup-bundle.jpg",
+      "price": 169.95,
       "rating": 4.7
     },
     {
       "id": 2,
-      "title": "Coffee Enthusiast Bundle",
-      "description": "Includes a travel mug, Bluetooth kettle, and a coffee maker.",
-      "photoUrl": "https://example.com/images/coffee_bundle.jpg",
-      "price": 299.99,
-      "rating": 4.8
-    },
-    {
-      "id": 3,
-      "title": "Ember Healthcare Bundle",
-      "description": "Includes the Ember Cube and smart thermometer for healthcare applications.",
-      "photoUrl": "https://example.com/images/healthcare_bundle.jpg",
-      "price": 549.99,
+      "title": "Travel Essentials Bundle",
+      "description": "A bundle featuring the Ember Travel Mug and Ember Mug 2 - Metallic Edition.",
+      "photoUrl": "https://example.com/images/ember-travel-bundle.jpg",
+      "price": 249.95,
       "rating": 4.9
     },
     {
+      "id": 3,
+      "title": "Outdoor Adventure Bundle",
+      "description": "Includes the Ember Thermos and Ember Travel Mug for long-lasting temperature control.",
+      "photoUrl": "https://example.com/images/ember-adventure-bundle.jpg",
+      "price": 329.95,
+      "rating": 5.0
+    },
+    {
       "id": 4,
-      "title": "Temperature Control Essentials",
-      "description": "Includes wireless charger, smart thermometer, and thermo bag.",
-      "photoUrl": "https://example.com/images/temp_control_essentials.jpg",
-      "price": 189.99,
-      "rating": 4.5
+      "title": "Home Brewing Bundle",
+      "description": "Includes the Ember Carafe and Ember Mini Mug for home brewing enthusiasts.",
+      "photoUrl": "https://example.com/images/ember-home-brewing-bundle.jpg",
+      "price": 279.95,
+      "rating": 4.8
+    },
+    {
+      "id": 5,
+      "title": "Precision Brewing Bundle",
+      "description": "A set for precision brewing, including Ember Kettle and Ember Smart Thermostat.",
+      "photoUrl": "https://example.com/images/ember-precision-bundle.jpg",
+      "price": 299.95,
+      "rating": 4.7
+    },
+    {
+      "id": 6,
+      "title": "Complete Office Set",
+      "description": "A bundle for the office, featuring the Ember Office Set and Ember Mug 2.",
+      "photoUrl": "https://example.com/images/ember-office-bundle.jpg",
+      "price": 399.95,
+      "rating": 5.0
     }
-  ],
-  "bundleProducts": {
-    "1": [
-      {
-        "id": 1,
-        "title": "Smart Mug 2",
-        "description": "Temperature-controlled smart mug to keep your drinks at the perfect temperature.",
-        "photoUrl": "https://example.com/images/smart_mug_2.jpg",
-        "price": 129.99,
-        "rating": 4.8
-      },
-      {
-        "id": 3,
-        "title": "Thermal Cup",
-        "description": "Simple thermal cup for maintaining the perfect drink temperature without smart features.",
-        "photoUrl": "https://example.com/images/thermal_cup.jpg",
-        "price": 39.99,
-        "rating": 4.1
-      },
-      {
-        "id": 6,
-        "title": "Smart Plate",
-        "description": "Temperature-controlled smart plate for keeping meals warm.",
-        "photoUrl": "https://example.com/images/smart_plate.jpg",
-        "price": 89.99,
-        "rating": 4.3
-      }
-    ],
-    "2": [
-      {
-        "id": 2,
-        "title": "Travel Mug",
-        "description": "Smart travel mug with a longer-lasting battery for coffee and tea lovers on the go.",
-        "photoUrl": "https://example.com/images/travel_mug.jpg",
-        "price": 179.99,
-        "rating": 4.7
-      },
-      {
-        "id": 5,
-        "title": "Coffee Maker Bundle",
-        "description": "Bundle includes the Ember smart mug and an advanced coffee maker.",
-        "photoUrl": "https://example.com/images/coffee_maker_bundle.jpg",
-        "price": 249.99,
-        "rating": 4.6
-      },
-      {
-        "id": 10,
-        "title": "Bluetooth Kettle",
-        "description": "Smart kettle with Bluetooth control to set precise water temperatures.",
-        "photoUrl": "https://example.com/images/bluetooth_kettle.jpg",
-        "price": 129.99,
-        "rating": 4.6
-      }
-    ],
-    "3": [
-      {
-        "id": 4,
-        "title": "Ember Cube",
-        "description": "Self-refrigerated smart shipping container for healthcare applications.",
-        "photoUrl": "https://example.com/images/ember_cube.jpg",
-        "price": 499.99,
-        "rating": 4.9
-      },
-      {
-        "id": 9,
-        "title": "Smart Thermometer",
-        "description": "Bluetooth thermometer for real-time temperature monitoring.",
-        "photoUrl": "https://example.com/images/smart_thermometer.jpg",
-        "price": 49.99,
-        "rating": 4.7
-      }
-    ],
-    "4": [
-      {
-        "id": 7,
-        "title": "Wireless Charger",
-        "description": "Wireless charger compatible with all Ember smart devices.",
-        "photoUrl": "https://example.com/images/wireless_charger.jpg",
-        "price": 39.99,
-        "rating": 4.5
-      },
-      {
-        "id": 8,
-        "title": "Ember Thermo Bag",
-        "description": "Smart insulated bag to keep food at an optimal temperature during transport.",
-        "photoUrl": "https://example.com/images/thermo_bag.jpg",
-        "price": 99.99,
-        "rating": 4.4
-      }
-    ]
-  }
+  ]
 }
